@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Breakout_Proyecto.unity
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 008484d667dc7d04d894518c430c42c2
+  - enabled: 1
+    path: Assets/Scenes/Breakout_Proyecto.unity
     guid: d1b68d5989c3e67468706958d66e3e7f
   m_configObjects: {}
